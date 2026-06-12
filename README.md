@@ -1,4 +1,4 @@
-# High-Frequency Buck-Boost Converter Design and Simulation
+# Buck-Boost Converter Design and Simulation
 <img width="1550" height="578" alt="Schematic" src="https://github.com/user-attachments/assets/a31aba67-455c-4653-a330-16b970dfcf72" />
 
 **[Click here to view the Report](https://github.com/user-attachments/files/28900365/Buck.Boost.Converter.Design.pdf)**
