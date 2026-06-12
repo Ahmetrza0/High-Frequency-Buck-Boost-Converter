@@ -1,6 +1,6 @@
 # High-Frequency Buck-Boost Converter Design and Simulation
 
-**[Click here to view the full 20-page Technical Design Report and Mathematical Proofs](Buck%20Boost%20Converter.pdf)**
+**[Click here to view the full 20-page Technical Design Report and Mathematical Proofs](https://github.com/user-attachments/files/28900365/Buck.Boost.Converter.Design.pdf)**
 
 ## Project Overview
 This repository contains the design, mathematical modeling, and software simulation of a high-frequency switch-mode power supply. The specific topology is a Buck-Boost DC-DC converter engineered to accept a variable input voltage and regulate it to a highly stable output under fluctuating load conditions. 
@@ -20,7 +20,8 @@ The core of this project involves establishing the precise critical inductance b
 ## Circuit Topology
 *(Replace the image below with your white-background schematic)*
 
-![PSIM Schematic](schematic.png)
+![PSIM Schematic](<img width="1550" height="578" alt="Schematic" src="https://github.com/user-attachments/assets/ab1d7218-69ee-447d-bfba-c6f174a3b22e" />
+)
 
 ## Key Engineering Methodologies
 * **Mathematical Modeling:** Calculated maximum and minimum duty cycles based on extreme input variations.
