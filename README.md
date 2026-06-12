@@ -18,9 +18,8 @@ The core of this project involves establishing the precise critical inductance b
 | **Output Capacitance** | 1000 µF |
 
 ## Circuit Topology
+<img width="1550" height="578" alt="Schematic" src="https://github.com/user-attachments/assets/a31aba67-455c-4653-a330-16b970dfcf72" />
 
-![PSIM Schematic](<img width="1550" height="578" alt="Schematic" src="https://github.com/user-attachments/assets/23ae1951-0425-4c7c-954d-0070952719d5" />
-)
 
 ## Key Engineering Methodologies
 * **Mathematical Modeling:** Calculated maximum and minimum duty cycles based on extreme input variations.
