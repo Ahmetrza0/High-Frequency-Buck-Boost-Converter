@@ -1,4 +1,5 @@
 # High-Frequency Buck-Boost Converter Design and Simulation
+<img width="1550" height="578" alt="Schematic" src="https://github.com/user-attachments/assets/a31aba67-455c-4653-a330-16b970dfcf72" />
 
 **[Click here to view the Report](https://github.com/user-attachments/files/28900365/Buck.Boost.Converter.Design.pdf)**
 
@@ -16,10 +17,6 @@ The core of this project involves establishing the precise critical inductance b
 | **Load Current Range** | 4 A – 8 A |
 | **Switching Frequency** | 100 kHz |
 | **Output Capacitance** | 1000 µF |
-
-## Circuit Topology
-<img width="1550" height="578" alt="Schematic" src="https://github.com/user-attachments/assets/a31aba67-455c-4653-a330-16b970dfcf72" />
-
 
 ## Key Engineering Methodologies
 * **Mathematical Modeling:** Calculated maximum and minimum duty cycles based on extreme input variations.
