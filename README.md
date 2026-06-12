@@ -18,9 +18,8 @@ The core of this project involves establishing the precise critical inductance b
 | **Output Capacitance** | 1000 µF |
 
 ## Circuit Topology
-*(Replace the image below with your white-background schematic)*
 
-![PSIM Schematic](<img width="1550" height="578" alt="Schematic" src="https://github.com/user-attachments/assets/ab1d7218-69ee-447d-bfba-c6f174a3b22e" />
+![PSIM Schematic](<img width="1550" height="578" alt="Schematic" src="https://github.com/user-attachments/assets/23ae1951-0425-4c7c-954d-0070952719d5" />
 )
 
 ## Key Engineering Methodologies
